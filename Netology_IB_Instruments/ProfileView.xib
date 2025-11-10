@@ -83,7 +83,7 @@
                 <outlet property="labelPlace" destination="jR6-qC-cSj" id="RN3-lY-2XL"/>
                 <outlet property="textDescription" destination="nlq-Hp-4Wn" id="YVK-As-YCr"/>
             </connections>
-            <point key="canvasLocation" x="259.09090909090912" y="33.89121338912134"/>
+            <point key="canvasLocation" x="-436.36363636363637" y="-23.84937238493724"/>
         </view>
     </objects>
     <resources>

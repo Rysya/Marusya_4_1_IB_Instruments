@@ -18,6 +18,4 @@ final class ProfileView: UIView {
     @IBOutlet weak var labelPlace: UILabel!
     
     @IBOutlet weak var textDescription: UITextView!
-    
- 
 }
